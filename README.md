@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Learning JS**
 
-- 🌱 I’m currently learning **JS, MongoDB, ReactJS, ExpressJS**
+- 🌱 I’m currently learning ** React.Js and Node.Js**
 
 - ⚡ Fun fact **I play a lot of minecraft**
 
