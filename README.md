@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **A Social Media Full Stack App**
 
-- 🌱 I’m currently certifiying as a **Oracle Database Programmer with SQL**
+- 🌱 I’m currently certifiying as an **Oracle Database Programmer with SQL**
 
 - ⚡ Fun fact **I play a lot of minecraft**
 
