@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
 <h3 align="center">A passionate full stack Software Engineer from Panama</h3>
 
-- 🔭 I’m currently working on **A FullStack social media app**
+- 🔭 I’m currently working on **SaSS Idea**
 
-- 🌱 I’m currently certifying **as an AWS Certified Developer**
-
-- 👨‍💻 All of my projects are available at [https://krlosdev.com/](https://krlosdev.com/)
+- 👨‍💻 Take a look at my portfolio [https://krlosdev.com/](https://krlosdev.com/)
 
 - 📫 How to reach me **developer@krlosdev.com**
 
@@ -109,14 +107,6 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-      alt="oracle"
       width="40"
       height="40"
     />
