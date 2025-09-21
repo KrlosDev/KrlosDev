@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **SaSS Idea**
 
-- 👨‍💻 Take a look at my portfolio [https://krlosdev.com/](https://krlosdev.com/)
+- 👨‍💻 Take a look at my portfolio [https://carlosb.xyz/](https://carlosb.xyz/)
 
-- 📫 How to reach me **developer@krlosdev.com**
+- 📫 How to reach me **carlosb@bbhint.com**
 
 - ⚡ Fun fact **I I play a lot of minecraft and manage multiplayer servers**
 
